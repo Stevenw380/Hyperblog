@@ -3,3 +3,5 @@ estudiando git
 haciendo mi primer commmit en platzi
 
 practicando nuevos codigos de git
+
+sigo practicando
