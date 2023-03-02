@@ -15,4 +15,5 @@ body
 #container h1
 {
     font-size: 7px;
+    width: 50px;
 }
